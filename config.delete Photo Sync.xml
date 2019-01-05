@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="no" ?>
+<!-- Configuration Parmeters -->
+
+<logfilename>/home/jdellaria/Desktop/logFindDuplicates.txt</logfilename>
+<logvalue>logWarning</logvalue>
+<logprintscreen>true</logprintscreen>
+<logprintfile>true</logprintfile>
+<logprinttime>true</logprinttime>
+<!-- fileaction can equal "delete" "hardlink" "softlink" "nothing"-->
+<!-- addtodatabase can equal "true" or "false" -->
+<!--<hostdirectory fileaction="nothing" addtodatabase="true">/RAID</hostdirectory>  -->
+<!--<hostdirectory fileaction="delete" addtodatabase="false">/media/Phot Music Proj/January 13 2013</hostdirectory> -->
+<!--<hostdirectory fileaction="nothing" addtodatabase="true">/Shared</hostdirectory> -->
+<!--<hostdirectory fileaction="hardlink" addtodatabase="true">/Shared/My Special Photos</hostdirectory> -->
+<!--<hostdirectory fileaction="nothing" addtodatabase="true">/home/jdellaria/Pictures</hostdirectory> -->
+<!--<hostdirectory fileaction="delete" addtodatabase="false">/Shared/Sync Photos</hostdirectory> -->
+<!--<hostdirectory fileaction="delete" addtodatabase="false">/home/jdellaria/Dropbox/Camera Uploads</hostdirectory> -->
+<!--<hostdirectory fileaction="delete" addtodatabase="false">/media/Phot Music Proj/January 13 2013/Pictures</hostdirectory>  -->
+<!--<hostdirectory fileaction="delete" addtodatabase="false">/media/Phot Music Proj/June 15 2013/Home/Pictures</hostdirectory>  -->
+<!--<hostdirectory fileaction="delete" addtodatabase="false">/media/Seagate Expansion Drive</hostdirectory>  -->
+<!--<hostdirectory fileaction="nothing" addtodatabase="true">/Shared/My Special Photos</hostdirectory>  -->
+<!--<hostdirectory fileaction="nothing" addtodatabase="true">/home/jdellaria/Pictures</hostdirectory>  -->
+<!--<hostdirectory fileaction="nothing" addtodatabase="true">/RAID</hostdirectory>  -->
+<!--<hostdirectory fileaction="nothing" addtodatabase="true">/Shared</hostdirectory>  -->
+<hostdirectory fileaction="nothing" addtodatabase="true">/home/jdellaria/Pictures</hostdirectory>
+<hostdirectory fileaction="delete" addtodatabase="false">/Shared/Photo Sync</hostdirectory>
